@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Deneme
 {
-    class Program
+    class StatiscalCalculations
     {
         static void Main(string[] args)
         {
