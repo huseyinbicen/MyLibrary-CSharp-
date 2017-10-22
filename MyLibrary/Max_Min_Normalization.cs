@@ -12,12 +12,11 @@ namespace MyLibrary
 
         public Max_Min_Normalization(List<float> list)
         {
+            //dizi = new List<float>(list);
             dizi = list;
             FindMaxMin();
             CreateList();
         }
-
-
 
         private void FindMaxMin()
         {

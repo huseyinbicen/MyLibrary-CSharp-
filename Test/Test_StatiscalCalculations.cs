@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Deneme
+namespace Test
 {
     class StatiscalCalculations
     {

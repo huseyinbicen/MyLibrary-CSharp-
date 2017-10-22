@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using MyLibrary;
 
-namespace Deneme
+namespace Test
 {
     class Max_Min_Normalization
     {
