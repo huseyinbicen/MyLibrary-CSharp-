@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
+    <Description>Benim Siirt Üniversitesi eğitim süresi boyunca yaptığım ve yapacağım, projeler ile C# Kütüphanesi</Description>
   </PropertyGroup>
 
 </Project>
