@@ -20,7 +20,7 @@ namespace MyLibrary.Data_Mining.Projects.Select_Gender_from_Article
         /// Clastaki tüm metodları birleştiren metotdur
         /// </summary>
         /// <returns>0-255 sayılarından kaç tane olduğunu bir dizi ile dönderiyor</returns>
-        public float[] Main()
+        public float[] StartClass()
         {
             String Metin = Surplus(text);
 
